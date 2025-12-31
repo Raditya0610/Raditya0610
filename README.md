@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raditya Maulana Adiwicaksana</h1>
-<h3 align="center">Turning complex problems into functional, high-performance web applications—from database to pixel.</h3>
+<h3 align="center">Turning complex problems into functional, high-performance web applications from database to pixel.</h3>
 
 - 🌱 I’m currently learning **Go, NextJs, PostgreSQL**
 
